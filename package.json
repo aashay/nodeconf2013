@@ -1,0 +1,57 @@
+{
+  "name": "nodeconf2013",
+  "version": "0.0.0",
+  "description": "All the packages you'll need for NodeConf!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": {
+    "name": "Mikeal Rogers"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.21.0",
+    "hapi": "1.x.x",
+    "express": "3.x.x",
+    "through": "~2.3.4",
+    "duplexer": "~0.1.1",
+    "concat-stream": "~1.0.0",
+    "JSONStream": "~0.6.4",
+    "hyperstream": "~0.2.0",
+    "hyperglue": "~1.1.0",
+    "hyperspace": "~0.1.1",
+    "browserify": "~2.17.3",
+    "brfs": "~0.0.5",
+    "ecstatic": "~0.4.2",
+    "split": "~0.2.5",
+    "shoe": "~0.0.11",
+    "mux-demux": "~3.7.3",
+    "slice-file": "~0.2.1",
+    "ar-drone": "~0.1.0",
+    "johnny-five": "0.6.3",
+    "uncurled": "*",
+    "greadme": "*",
+    "optimist": "~0.5.2",
+    "stream-serializer": "~1.1.1",
+    "my-local-ip": "~1.0.0",
+    "dirty": "~0.9.7",
+    "stream-adventure": "*",
+    "tar": "~0.1.17",
+    "crdt": "~3.5.1",
+    "repred": "~1.0.1",
+    "scuttlebutt": "~5.5.20",
+    "reconnect": "~1.4.2",
+    "duplex": "~1.0.0",
+    "message-stream": "~1.0.0",
+    "udid": "~0.1.2"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "nodeconf2013@0.0.0",
+  "dist": {
+    "shasum": "697f183a28e2767b113c03380b91cff6b7131cff"
+  },
+  "_from": "nodeconf2013@",
+  "_resolved": "https://registry.npmjs.org/nodeconf2013/-/nodeconf2013-0.0.0.tgz"
+}
